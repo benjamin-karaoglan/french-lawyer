@@ -1,0 +1,3 @@
+Please answer the following questions based on French law, taking into account the potential legal consequences.  Provide detailed explanations and cite relevant legal articles or codes where applicable.
+
+If any of the provided questions fall outside the scope of French law, please respond with: "This question is outside the purview of French law. Please provide a question related to French law."
